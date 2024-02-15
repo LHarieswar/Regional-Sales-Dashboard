@@ -1,1 +1,2 @@
 # Regional-Sales-Dashboard
+This project revolves around performing a thorough regional sales analysis for a company offering a diverse product range, encompassing groceries, electronics, apparel, and household items. The analysis is conducted using Power BI, utilizing Kaggle data tables for Products, Customers, Store Locations, Sales Teams, Regions, and Sales. The outcome includes insightful dashboards designed to inform strategic decision-making processes.
